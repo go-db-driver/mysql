@@ -12,7 +12,7 @@ import (
 	"entgo.io/ent"
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
-	"github.com/go-sql-driver/mysql/driver/gen/user"
+	"github.com/go-db-driver/mysql/driver/gen/user"
 )
 
 // ent aliases to avoid import conflicts in user's code.

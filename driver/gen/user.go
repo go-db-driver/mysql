@@ -10,7 +10,7 @@ import (
 
 	"entgo.io/ent"
 	"entgo.io/ent/dialect/sql"
-	"github.com/go-sql-driver/mysql/driver/gen/user"
+	"github.com/go-db-driver/mysql/driver/gen/user"
 	"github.com/shopspring/decimal"
 )
 

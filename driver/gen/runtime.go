@@ -3,8 +3,8 @@
 package gen
 
 import (
-	"github.com/go-sql-driver/mysql/driver/gen/user"
-	"github.com/go-sql-driver/mysql/driver/schema"
+	"github.com/go-db-driver/mysql/driver/gen/user"
+	"github.com/go-db-driver/mysql/driver/schema"
 	"github.com/shopspring/decimal"
 )
 

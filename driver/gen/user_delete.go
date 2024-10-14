@@ -8,8 +8,8 @@ import (
 	"entgo.io/ent/dialect/sql"
 	"entgo.io/ent/dialect/sql/sqlgraph"
 	"entgo.io/ent/schema/field"
-	"github.com/go-sql-driver/mysql/driver/gen/predicate"
-	"github.com/go-sql-driver/mysql/driver/gen/user"
+	"github.com/go-db-driver/mysql/driver/gen/predicate"
+	"github.com/go-db-driver/mysql/driver/gen/user"
 )
 
 // UserDelete is the builder for deleting a User entity.

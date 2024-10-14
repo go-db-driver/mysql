@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"entgo.io/ent/dialect/sql"
-	"github.com/go-sql-driver/mysql/driver/gen/predicate"
+	"github.com/go-db-driver/mysql/driver/gen/predicate"
 	"github.com/shopspring/decimal"
 )
 

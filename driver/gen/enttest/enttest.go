@@ -5,12 +5,12 @@ package enttest
 import (
 	"context"
 
-	"github.com/go-sql-driver/mysql/driver/gen"
+	"github.com/go-db-driver/mysql/driver/gen"
 	// required by schema hooks.
-	_ "github.com/go-sql-driver/mysql/driver/gen/runtime"
+	_ "github.com/go-db-driver/mysql/driver/gen/runtime"
 
 	"entgo.io/ent/dialect/sql/schema"
-	"github.com/go-sql-driver/mysql/driver/gen/migrate"
+	"github.com/go-db-driver/mysql/driver/gen/migrate"
 )
 
 type (

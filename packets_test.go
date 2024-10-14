@@ -308,7 +308,7 @@ func TestReadPacketFail(t *testing.T) {
 	}
 }
 
-// https://github.com/go-sql-driver/mysql/pull/801
+// https://github.com/go-db-driver/mysql/pull/801
 // not-NUL terminated plugin_name in init packet
 func TestRegression801(t *testing.T) {
 	conn := new(mockConn)

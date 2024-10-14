@@ -9,12 +9,12 @@ import (
 	"log"
 	"reflect"
 
-	"github.com/go-sql-driver/mysql/driver/gen/migrate"
+	"github.com/go-db-driver/mysql/driver/gen/migrate"
 
 	"entgo.io/ent"
 	"entgo.io/ent/dialect"
 	"entgo.io/ent/dialect/sql"
-	"github.com/go-sql-driver/mysql/driver/gen/user"
+	"github.com/go-db-driver/mysql/driver/gen/user"
 )
 
 // Client is the client that holds all ent builders.

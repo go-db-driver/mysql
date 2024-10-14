@@ -6,7 +6,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/go-sql-driver/mysql/driver/gen"
+	"github.com/go-db-driver/mysql/driver/gen"
 )
 
 // The UserFunc type is an adapter to allow the use of ordinary

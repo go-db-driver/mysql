@@ -2,7 +2,7 @@
 
 package runtime
 
-// The schema-stitching logic is generated in github.com/go-sql-driver/mysql/driver/gen/runtime.go
+// The schema-stitching logic is generated in github.com/go-db-driver/mysql/driver/gen/runtime.go
 
 const (
 	Version = "v0.14.1"                                         // Version of ent codegen.
